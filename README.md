@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Lucas do Nascimento</h1>
+<h1 align="center">Hi 👋, my name is Lucas!</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
 - 🌱 I’m currently learning **React Native and NodeJS**
